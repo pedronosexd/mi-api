@@ -49,6 +49,13 @@
         }
     },
      {
+        "title": "CD Korean",
+        "img": "https://i.postimg.cc/wTvx78p6/cd-korean.png",
+        "link": {
+            "link1": "https://cuty.io/hDswjWpEtMK"
+        }
+    },
+     {
         "title": "CD korean cute",
         "img": "https://i.postimg.cc/J42rX6rj/cd-Cute-4.jpg",
         "link": {
@@ -70,11 +77,10 @@
         }
     },
     {
-        "title": "CD Korean",
-        "img": "https://i.postimg.cc/wTvx78p6/cd-korean.png",
+        "title": "CD Korean 2",
+        "img": "https://i.postimg.cc/4NSRV9KL/CD-Korean-2.png",
         "link": {
-            "link1": "https://cuty.io/hDswjWpEtMK",
-            "link2": "https://cuty.io/QlLbkhZ"
+            "link1": "https://cuty.io/QlLbkhZ"
         }
     }
 ]
